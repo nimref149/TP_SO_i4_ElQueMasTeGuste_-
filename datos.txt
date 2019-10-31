@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Leandro Baez Nuñez 190.193.139.89 18:23
+=======
+Serein, Álvaro Enuel 192.168.0.12 @ 31/10 18:04
+>>>>>>> serein
